@@ -1,2 +1,2 @@
-# Data-Mining-Analyst-And-Data-Engineering
-Data mining_analyst_and_data_engineering
+# all_power_bi_dashboard
+This reposity is all about Power BI dashboard exercise
